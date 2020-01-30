@@ -1,10 +1,10 @@
 # Bulk email sender
-
+Send the same email to thousands of email addresses!
 
 ## How to use
-### [First you need to edit it(https://github.com/mr-winson/changevariable#how-to-edit)
+### [First you need to edit it](https://github.com/mr-winson/Mass-Email-Sender#how-to-edit)
 Clone this repo:
-`git clone https://github.com/mr-winson/changevariable`
+`git clone https://github.com/mr-winson/Mass-Email-Sender`
 <br>
 CD to it:
 `cd ~/path/to/the/download`
