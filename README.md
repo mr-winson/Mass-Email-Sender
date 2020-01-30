@@ -8,7 +8,7 @@ Open `script.py` and follow the commented instructions!
 [Now you need to use it](https://github.com/mr-winson/Mass-Email-Sender#how-to-use)
 
 ## How to use
-[First you need to edit it](https://github.com/mr-winson/Mass-Email-Sender#how-to-edit) 
+[First you need to edit it](https://github.com/mr-winson/Mass-Email-Sender#how-to-edit) <br>
 Clone this repo:
 `git clone https://github.com/mr-winson/Mass-Email-Sender`
 <br>
