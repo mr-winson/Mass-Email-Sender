@@ -15,3 +15,5 @@ Run the code:
 ## How to edit
 Open `emails.xlsx` with an excel sheet editor.
 Change the email variables in a downword list.
+Open `script.py` and follow the commented instructions!
+[Now you need to use it](https://github.com/mr-winson/Mass-Email-Sender#how-to-use)
